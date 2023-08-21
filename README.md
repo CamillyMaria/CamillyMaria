@@ -29,7 +29,8 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/CamillyMaria/CamillyMaria/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/CamillyMaria/CamillyMaria/output/snake.yml" alt="Snake animation" />
+
 
 ###
 
