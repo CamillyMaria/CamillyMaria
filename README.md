@@ -1,11 +1,10 @@
-<h2 align="left">Opa! Me chamo Camilly Maria!</h2>
+0000<h2 align="left">Opa! Me chamo Camilly Maria!</h2>
 
 ###
 
 <br clear="both">
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=CamillyMaria&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&order=1" height="174" alt="stats graph"  />
+
   <img src="https://streak-stats.demolab.com?user=CamillyMaria&locale=pt-br&mode=daily&theme=dracula&hide_border=true&border_radius=5&order=3" height="174" alt="streak graph"  />
 </div>
 
