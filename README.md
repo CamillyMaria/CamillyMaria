@@ -36,13 +36,13 @@
   </a>
   <a href="https://twitter.com/_zer0_fiv5" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="67" height="55" alt="twitter logo"  />
-![Snake animation](https://github.com/CamillyMaria/CamillyMaria/blob/output/github-contribution-grid-snake.svg)
+
   </a>
-[![readme](https://github-readme-stats.vercel.app/api/pin/?username=CamillyMaria&repo=CamillyMaria&theme=react)](https://github.com/CamillyMaria/CamillyMaria)
+
 </div>
 
 ###
 
-<img src="https://raw.githubusercontent.com/CamillyMaria/CamillyMaria/output/snake.svg" alt="Snake animation" />
+<img src="https://github.com/CamillyMaria/CamillyMaria/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
 ###
