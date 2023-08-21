@@ -1,10 +1,11 @@
-0000<h2 align="left">Opa! Me chamo Camilly Maria!</h2>
+<h2 align="left">Opa! Me chamo Camilly Maria!</h2>
 
 ###
 
 <br clear="both">
 
-
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=CamillyMaria&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=pt-br&hide_border=true&order=1" height="174" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=CamillyMaria&locale=pt-br&mode=daily&theme=dracula&hide_border=true&border_radius=5&order=3" height="174" alt="streak graph"  />
 </div>
 
@@ -28,15 +29,20 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/CamillyMaria/CamillyMaria/output/snake.yml" alt="Snake animation" />
-
+<img src="https://raw.githubusercontent.com/CamillyMaria/CamillyMaria/output/snake.svg" alt="Snake animation" />
 
 ###
 
 <div align="right">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="62" height="50" alt="instagram logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="62" height="50" alt="discord logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="62" height="50" alt="twitter logo"  />
+  <a href="https://www.instagram.com/_zer0fiv5_/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="62" height="50" alt="instagram logo"  />
+  </a>
+  <a href="https://discord.com/channels/@005_z" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="62" height="50" alt="discord logo"  />
+  </a>
+  <a href="https://twitter.com/_zer0_fiv5" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="62" height="50" alt="twitter logo"  />
+  </a>
 </div>
 
 ###
